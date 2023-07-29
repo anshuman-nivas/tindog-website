@@ -6,7 +6,7 @@ The inspiration for the TinDog website project came from the idea of creating a 
 # What it does
 TinDog is a website that allows users to browse and explore profiles of dogs available for adoption in their nearby area. It provides a user-friendly interface where people can view pictures, read descriptions, and learn more about the dogs' personalities. Users can then express interest in adopting a dog by initiating a conversation with the dog owner through a messaging feature on the platform.
 
-# How we built it
+# How I built it
 The TinDog website was built using a combination of HTML, CSS, and the Bootstrap framework. Here's a breakdown of the development process:
 
 **HTML:** We structured the website using HTML, creating sections for the header, main content, and footer. Each dog's profile was represented by a card element to display essential information.
@@ -19,11 +19,11 @@ The TinDog website was built using a combination of HTML, CSS, and the Bootstrap
 During the development of the TinDog website, we encountered responsiveness challenges:
 Ensuring the website looked and functioned well on various devices was a significant challenge. It required thorough testing and adjustments to accommodate different screen sizes and resolutions.
 
-# Accomplishments that we're proud of
+# Accomplishments that I am proud of
 **Attractive User Interface:** The website boasts an appealing design that provides a delightful user experience. We were able to achieve the desired look and feel through careful use of colors, typography, and layout.
 **Responsive Design:** TinDog is fully responsive, adapting seamlessly to various devices and screen sizes. Users can access the website from their desktops, tablets, or smartphones without compromising usability.
 
-# What we learned
+# What I learned
 Frontend Development: We honed our skills in HTML, CSS, and Bootstrap, gaining a better understanding of building responsive and visually appealing websites.
 
 # What's next for TinDog Website
