@@ -1,0 +1,145 @@
+/*********Tag********/
+
+body {
+	font-family: "monserrat";
+}
+h1 {
+	font-family: "montserrat";
+	size: 3rem;
+	line-height: 1.5;
+	color: white;
+	padding-bottom: 5rem;
+}
+p {
+	color: grey;
+	text-align: center;
+	font-weight: bold;
+}
+h3 {
+	padding: 5%;
+	font-family: "montserrat";
+}
+li {
+	text-align: right;
+}
+h2 {
+	font-family: "montserrat";
+	text-align: center;
+	font-size: 3rem;
+	line-height: 1.5;
+}
+
+/***********Id*********/
+
+#features {
+	padding: 7% 15%;
+	background-color: white;
+	position: relative;
+}
+#navbarSupportedContent {
+	position: absolute;
+	left: 50rem;
+}
+#testimonials {
+	padding: 7% 15%;
+	text-align: center;
+	background-color: #ef8172;
+	color: white;
+}
+#press {
+	text-align: center;
+}
+#pricing {
+	padding: 100px;
+}
+#cta {
+	background-color: #ff4c68;
+	color: white;
+	padding: 7% 15%;
+	text-align: center;
+}
+#footer {
+	padding: 7% 15%;
+	text-align: center;
+}
+/**********Class********/
+
+.title {
+	background-color: #ff4c68;
+}
+.icon {
+	color: #ef8172;
+	margin-bottom: 1rem;
+}
+.icon:hover {
+	color: #ff4c68;
+}
+.container-fluid {
+	padding: 5%;
+}
+.row {
+	padding: 0 5% 0 5%;
+}
+.iphone {
+	transform: rotate(25deg);
+	position: absolute;
+	right: 20%;
+}
+.navbar-brand {
+	font-family: "ubuntu";
+	font-size: 2.5rem;
+	font-weight: bold;
+}
+.navbar {
+	padding: 0 0 3rem;
+}
+.nav-item {
+	padding: 0 1rem;
+}
+.nav-link {
+	font-size: 1.2rem;
+	font-family: "monserrat";
+	font-weight: light;
+}
+.col-lg-6 {
+	padding-top: 20px;
+	padding-bottom: 200px;
+}
+.feature-box {
+	text-align: center;
+	padding: 7%;
+}
+.testimonial-image {
+	width: 10%;
+	border-radius: 100%;
+}
+.press-logo {
+	width: 15%;
+	margin: 20px 20px 50px;
+}
+.card {
+	text-align: center;
+}
+.pricing-column {
+	padding: 3% 2%;
+}
+.cta-heading {
+	font-family: "Montserrat";
+	font-size: 3.5rem;
+	line-height: 1.5;
+}
+.social-icon {
+	margin: 20px 10px;
+}
+
+/********Media Query*********/
+
+@media (max-width: 992px) {
+	.title {
+		text-align: center;
+	}
+	.iphone {
+		position: static;
+		transform: rotate(0);
+	}
+}
